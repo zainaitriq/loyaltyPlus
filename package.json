@@ -1,0 +1,17 @@
+{
+  "name": "loyaltyplus",
+  "version": "1.0.0",
+  "description": "Customer-facing frontend for Loyalty+",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no tests defined\" && exit 0"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "axios": "latest"
+  }
+}
